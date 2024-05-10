@@ -56,12 +56,12 @@ if(!reset)
  endmodule
 ```
 **RTL LOGIC FOR FLIPFLOPS**
+
 ![Screenshot 2024-05-10 224327](https://github.com/Yogesh-Yogi-1/D-FLIPDLOP-NEGEDGE/assets/148514598/cc70e2be-b4bf-453d-9e0a-26c369286399)
 
-
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![Screenshot 2024-05-10 224348](https://github.com/Yogesh-Yogi-1/D-FLIPDLOP-NEGEDGE/assets/148514598/f413665a-3af9-42e3-9be8-001f60314245)
 
+![Screenshot 2024-05-10 224348](https://github.com/Yogesh-Yogi-1/D-FLIPDLOP-NEGEDGE/assets/148514598/f413665a-3af9-42e3-9be8-001f60314245)
 
 **RESULTS**
 
